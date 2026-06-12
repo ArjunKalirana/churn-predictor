@@ -123,4 +123,5 @@ Open `http://localhost:5173`
 ## 👤 Author
 
 **Karan Singh Shekhawat**  
+**Arjun Choudhary**
 [GitHub](https://github.com/karansinghshekhawat2110-cloud)
